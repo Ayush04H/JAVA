@@ -15,7 +15,7 @@ public class twovariableswap {
 
         String temp = b;
         b = a;
-        a = temp;
+        a = temp;//
 
         System.out.println("Swapped Variables");
         System.out.println("A : " + a);
